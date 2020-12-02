@@ -30,7 +30,7 @@
 
         <!-- Spring Boot Settings -->
         <spring-boot-alibaba-druid.version>1.1.10</spring-boot-alibaba-druid.version>
-        <spring-boot-tk-mybatis.version>2.1.4</spring-boot-tk-mybatis.version>
+        <spring-boot-tk-mybatis.version>2.0.2</spring-boot-tk-mybatis.version>
         <spring-boot-pagehelper.version>1.2.10</spring-boot-pagehelper.version>
 
         <!-- Commons Settings -->
